@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880488456773",
+    "firebase_url": "https://travelbolg.firebaseio.com",
+    "project_id": "travelbolg",
+    "storage_bucket": "travelbolg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880488456773:android:046b894a12818d87bc792c",
+        "android_client_info": {
+          "package_name": "com.example.travelblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880488456773-bsqu4gn5tu183i7hj7jp0o8ikg0s3uh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGqLNxfcoN0IuLlp-sPDvupiilYO_uEws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880488456773-bsqu4gn5tu183i7hj7jp0o8ikg0s3uh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
